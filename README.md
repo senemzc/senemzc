@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Sudip Rai
 
-<!--
-**senemzc/senemzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Enthusiast;System+Thinker;Building+Real+World+Applications+🚀" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senemzc&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Profile
+I am a BIM student focused on developing **scalable web applications and intelligent systems**.  
+I approach development with an emphasis on **clarity, structure, and real-world usability**.
+
+I am particularly interested in:
+- Designing clean and maintainable systems  
+- Understanding backend logic and architecture  
+- Applying AI concepts to practical applications  
+
+---
+
+## ⚙️ Core Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,python,nodejs,mongodb,git,github" />
+</p>
+
+---
+
+## 🚀 Selected Work
+
+### 🏠 House Price Predictor  
+A machine learning-based system that estimates property prices using structured data inputs.
+
+### 🎮 Creativity Intelligence System (CIS)  
+An experimental project focused on AI-assisted creativity and interactive system design.
+
+### 🌐 Kids Learning Platform  
+A web application designed to deliver simple, engaging educational content for young learners.
+
+---
+
+## 📊 Activity & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=senemzc&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senemzc&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧠 Technical Direction
+- Strengthening backend development and API design  
+- Exploring AI integration into web systems  
+- Improving scalability and performance practices  
+
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/senemzc/senemzc/output/snake.svg" />
+</p>
+
+---
+
+## 📫 Contact
+<p align="center">
+  <a href="mailto:s9817769959@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sudip-rai-a0251b27a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Mindset
+> “Focus on building systems that solve real problems — not just writing code.”
