@@ -22,22 +22,32 @@ I am particularly interested in:
 
 ## 🔧 Skills & Tools
 
-**Backend & Documentation**
+**🌐 Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap" />
 </p>
 
-API Integration · Technical Writing
-
-**Design & Graphics**
+**⚙️ Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mongodb,mysql,firebase,supabase" />
 </p>
 
-**Frontend Basics**
+**🤖 AI & Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
+
+**🎨 Design & Graphics**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
+</p>
+
+**🛠️ Dev Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,vercel,netlify" />
+</p>
+
+API Integration · Technical Writing · REST APIs · Prompt Engineering
 
 ---
 
