@@ -60,11 +60,8 @@ API Integration · Technical Writing · REST APIs · Prompt Engineering
     <th>🎖️ Result</th>
   </tr>
   <tr>
-    <td>
-      <strong>Infinity CodeWave 2026</strong><br/>
-      <sub>24-hour hackathon at Kathmandu University · 120+ students across Nepal · AI, Security, Blockchain</sub>
-    </td>
-    <td>Frontend Innovation · End-to-End Problem Solving</td>
+    <td><strong>Infinity CodeWave 2026</strong></td>
+    <td>Real-world solutions across AI, Security, Blockchain</td>
     <td>⚡ Participant</td>
   </tr>
   <tr>
@@ -112,4 +109,4 @@ API Integration · Technical Writing · REST APIs · Prompt Engineering
 ---
 
 ## ⚡ Mindset
-> "Focus on building systems that solve real problems — not just writing code."
+> "Focus on building systems that solve real problems — not just writing code."****
