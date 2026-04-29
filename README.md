@@ -1,9 +1,7 @@
 # 👋 Sudip Rai
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Enthusiast;System+Thinker;Building+Real+World+Applications+🚀" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=senemzc&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
@@ -21,23 +19,52 @@ I am particularly interested in:
 
 ---
 
-## ⚙️ Core Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,python,nodejs,mongodb,git,github" />
+
+## 🔧 Skills & Tools
+
+**Backend & Documentation**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
+
+API Integration · Technical Writing
+
+**Design & Graphics**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+**Frontend Basics**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
 ---
 
-## 🚀 Selected Work
+## 🏆 Hackathon Highlights
 
-### 🏠 House Price Predictor  
-A machine learning-based system that estimates property prices using structured data inputs.
-
-### 🎮 Creativity Intelligence System (CIS)  
-An experimental project focused on AI-assisted creativity and interactive system design.
-
-### 🌐 Kids Learning Platform  
-A web application designed to deliver simple, engaging educational content for young learners.
+<table>
+  <tr>
+    <th>🏅 Event</th>
+    <th>💡 Project / Focus</th>
+    <th>🎖️ Result</th>
+  </tr>
+  <tr>
+    <td><strong>KIST HackFest</strong></td>
+    <td>AI University Recommender</td>
+    <td>🥉 3rd Place</td>
+  </tr>
+  <tr>
+    <td><strong>CodeWave — Infinity 2026</strong></td>
+    <td>Frontend Innovation · End-to-End Problem Solving</td>
+    <td>⚡ Participant</td>
+  </tr>
+  <tr>
+    <td><strong>CodeYatra 2025</strong></td>
+    <td>Frontend Innovation · End-to-End Problem Solving</td>
+    <td>⚡ Participant</td>
+  </tr>
+</table>
 
 ---
 
@@ -77,4 +104,4 @@ A web application designed to deliver simple, engaging educational content for y
 ---
 
 ## ⚡ Mindset
-> “Focus on building systems that solve real problems — not just writing code.”
+> "Focus on building systems that solve real problems — not just writing code."
