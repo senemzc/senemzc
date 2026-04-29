@@ -60,12 +60,10 @@ API Integration · Technical Writing · REST APIs · Prompt Engineering
     <th>🎖️ Result</th>
   </tr>
   <tr>
-    <td><strong>KIST HackFest</strong></td>
-    <td>AI University Recommender</td>
-    <td>🥉 3rd Place</td>
-  </tr>
-  <tr>
-    <td><strong>CodeWave — Infinity 2026</strong></td>
+    <td>
+      <strong>Infinity CodeWave 2026</strong><br/>
+      <sub>24-hour hackathon at Kathmandu University · 120+ students across Nepal · AI, Security, Blockchain</sub>
+    </td>
     <td>Frontend Innovation · End-to-End Problem Solving</td>
     <td>⚡ Participant</td>
   </tr>
