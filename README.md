@@ -29,7 +29,7 @@ I am particularly interested in:
 
 **⚙️ Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mongodb,mysql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,python,php,mongodb,mysql,firebase,supabase" />
 </p>
 
 **🤖 AI & Data**
@@ -39,12 +39,12 @@ I am particularly interested in:
 
 **🎨 Design & Graphics**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
 **🛠️ Dev Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
 </p>
 
 API Integration · Technical Writing · REST APIs · Prompt Engineering
