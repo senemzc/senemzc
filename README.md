@@ -109,4 +109,4 @@ API Integration · Technical Writing · REST APIs · Prompt Engineering
 ---
 
 ## ⚡ Mindset
-> "Focus on building systems that solve real problems — not just writing code."****
+> "Focus on building systems that solve real problems — not just writing code."***
