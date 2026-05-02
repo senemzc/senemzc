@@ -124,13 +124,12 @@ I approach development with an emphasis on **clarity, structure, and real-world 
 
 ---
 
-## 🐍 Contribution Graph
+## 🦎 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/senemzc/senemzc/output/snake.svg" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senemzc&theme=react-dark" />
 </p>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=senemzc&theme=react-dark)
 
 ---
 
